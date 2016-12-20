@@ -1,16 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tranh Chỉ </title>
+    <title>Simulation-rsses on Tranh Chỉ</title>
     <link>http://www.wovenpainting.com/vi/simulation/index.xml</link>
-    <language>en-us</language>
-    <author>Tri Duc Co. Ltd</author>
-    <rights>(C) 2016</rights>
-    <updated>2016-12-20 17:00:41 &#43;0700 ICT</updated>
-
+    <description>Recent content in Simulation-rsses on Tranh Chỉ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <lastBuildDate>Tue, 20 Dec 2016 17:00:41 +0700</lastBuildDate>
+    <atom:link href="http://www.wovenpainting.com/vi/simulation/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Đức Chúa Jesus</title>
+      <link>http://www.wovenpainting.com/vi/simulation/jesus/</link>
+      <pubDate>Tue, 20 Dec 2016 17:00:41 +0700</pubDate>
       
+      <guid>http://www.wovenpainting.com/vi/simulation/jesus/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;
+  &lt;img src=&#34;http://www.wovenpainting.com/images/simulation/jesus.jpg&#34; alt=&#34;Đức Chúa Jesus images/simulation/jesus.jpg&#34;&gt;
+  
+  &lt;figcaption&gt;
     
+    Khung Tròn
+    
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
 
+&lt;figure&gt;
+  &lt;img src=&#34;http://www.wovenpainting.com/images/simulation/Drawing_Jesus.jpg_simulation_6.jpg&#34; alt=&#34;Đức Chúa Jesus images/simulation/Drawing_Jesus.jpg_simulation_6.jpg&#34;&gt;
+  
+  &lt;figcaption&gt;
+    
+    Khung Lục Giác
+    
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

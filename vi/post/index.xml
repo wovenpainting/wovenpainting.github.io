@@ -1,65 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tranh Chỉ </title>
+    <title>Post-rsses on Tranh Chỉ</title>
     <link>http://www.wovenpainting.com/vi/post/index.xml</link>
-    <language>en-us</language>
-    <author>Tri Duc Co. Ltd</author>
-    <rights>(C) 2016</rights>
-    <updated>2016-12-20 16:33:58 &#43;0700 ICT</updated>
-
+    <description>Recent content in Post-rsses on Tranh Chỉ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <lastBuildDate>Tue, 20 Dec 2016 16:33:58 +0700</lastBuildDate>
+    <atom:link href="http://www.wovenpainting.com/vi/post/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Vui cưới</title>
+      <link>http://www.wovenpainting.com/vi/post/wedding/</link>
+      <pubDate>Tue, 20 Dec 2016 16:33:58 +0700</pubDate>
       
-        <item>
-          <title>Vui cưới</title>
-          <link>http://www.wovenpainting.com/vi/post/wedding/</link>
-          <pubDate>Tue, 20 Dec 2016 16:33:58 ICT</pubDate>
-          <author>Tri Duc Co. Ltd</author>
-          <guid>http://www.wovenpainting.com/vi/post/wedding/</guid>
-          <description>&lt;p&gt;Chúc hai bạn trăm năm hạnh phúc&lt;/p&gt;
+      <guid>http://www.wovenpainting.com/vi/post/wedding/</guid>
+      <description>&lt;p&gt;Chúc hai bạn trăm năm hạnh phúc
+&lt;figure&gt;
+  &lt;img src=&#34;http://www.wovenpainting.com/images/real_word_wedding.jpg&#34; alt=&#34;Vui cưới images/real_word_wedding.jpg&#34;&gt;
+  
+&lt;/figure&gt;
+&lt;/p&gt;
 </description>
-        </item>
-      
+    </item>
     
+    <item>
+      <title>Tâm</title>
+      <link>http://www.wovenpainting.com/vi/post/heart/</link>
+      <pubDate>Tue, 20 Dec 2016 16:28:42 +0700</pubDate>
       
-        <item>
-          <title>Tâm</title>
-          <link>http://www.wovenpainting.com/vi/post/heart/</link>
-          <pubDate>Tue, 20 Dec 2016 16:28:42 ICT</pubDate>
-          <author>Tri Duc Co. Ltd</author>
-          <guid>http://www.wovenpainting.com/vi/post/heart/</guid>
-          <description>&lt;p&gt;Thiện căn ở tại lòng ta&lt;/p&gt;
+      <guid>http://www.wovenpainting.com/vi/post/heart/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;
+  &lt;img src=&#34;http://www.wovenpainting.com/images/real_word_heart.jpg&#34; alt=&#34;Tâm images/real_word_heart.jpg&#34;&gt;
+  
+  &lt;figcaption&gt;
+    
+    Tâm
+    
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+Thiện căn ở tại lòng ta&lt;/p&gt;
 
 &lt;p&gt;Chữ Tâm kia mới bằng ba chữ Tài&lt;/p&gt;
 </description>
-        </item>
-      
+    </item>
     
+    <item>
+      <title>Bằng Hữu</title>
+      <link>http://www.wovenpainting.com/vi/post/friend/</link>
+      <pubDate>Tue, 20 Dec 2016 16:08:38 +0700</pubDate>
       
-        <item>
-          <title>Bằng Hữu</title>
-          <link>http://www.wovenpainting.com/vi/post/friend/</link>
-          <pubDate>Tue, 20 Dec 2016 16:08:38 ICT</pubDate>
-          <author>Tri Duc Co. Ltd</author>
-          <guid>http://www.wovenpainting.com/vi/post/friend/</guid>
-          <description>&lt;p&gt;Mẹ tôi có một nhóm bạn chơi thân từ hồi còn cắp sách đến trường. Đến bây giờ, sau hơn 5 thập kỷ, hàng năm, mọi người vẫn giữ thói quen dành ra một ngày để họp mặt.&lt;/p&gt;
+      <guid>http://www.wovenpainting.com/vi/post/friend/</guid>
+      <description>&lt;p&gt;Mẹ tôi có một nhóm bạn chơi thân từ hồi còn cắp sách đến trường. Đến bây giờ, sau hơn 5 thập kỷ, hàng năm, mọi người vẫn giữ thói quen dành ra một ngày để họp mặt.
+&lt;figure&gt;
+  &lt;img src=&#34;http://www.wovenpainting.com/images/real_word_friend.jpg&#34; alt=&#34;Bằng Hữu images/real_word_friend.jpg&#34;&gt;
+  
+&lt;/figure&gt;
 
-&lt;p&gt;Năm nay, tôi xin tặng mẹ và các dì hai chữ BẰNG HỮU, mong mọi người được sức khoẻ để vui vẻ với gia đình.&lt;/p&gt;
+Năm nay, tôi xin tặng mẹ và các dì hai chữ BẰNG HỮU, mong mọi người được sức khoẻ để vui vẻ với gia đình.&lt;/p&gt;
 </description>
-        </item>
-      
+    </item>
     
+    <item>
+      <title>Đức Mẹ Maria</title>
+      <link>http://www.wovenpainting.com/vi/post/maria/</link>
+      <pubDate>Tue, 20 Dec 2016 15:58:59 +0700</pubDate>
       
-        <item>
-          <title>Đức Mẹ Maria</title>
-          <link>http://www.wovenpainting.com/vi/post/maria/</link>
-          <pubDate>Tue, 20 Dec 2016 15:58:59 ICT</pubDate>
-          <author>Tri Duc Co. Ltd</author>
-          <guid>http://www.wovenpainting.com/vi/post/maria/</guid>
-          <description></description>
-        </item>
-      
+      <guid>http://www.wovenpainting.com/vi/post/maria/</guid>
+      <description>&lt;figure&gt;
+  &lt;img src=&#34;http://www.wovenpainting.com/images/real_portrait_maria.jpg&#34; alt=&#34;Đức Mẹ Maria images/real_portrait_maria.jpg&#34;&gt;
+  
+  &lt;figcaption&gt;
     
+    Đức Mẹ Maria
+    
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
 
+</description>
+    </item>
+    
   </channel>
 </rss>
