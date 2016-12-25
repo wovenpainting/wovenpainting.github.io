@@ -2,37 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.wovenpainting.com/en/</loc>
+    <loc>http://www.wovenpainting.com/</loc>
+    <lastmod>2016-12-25T16:16:14+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/post/merryxmas/</loc>
+    <lastmod>2016-12-25T16:16:14+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/simulation/papanoel/</loc>
     <lastmod>2016-12-21T03:31:47+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.wovenpainting.com/en/simulation/papanoel/</loc>
-    <lastmod>2016-12-21T03:31:47+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.wovenpainting.com/en/simulation/jesus/</loc>
+    <loc>http://www.wovenpainting.com/simulation/jesus/</loc>
     <lastmod>2016-12-20T17:00:41+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.wovenpainting.com/en/post/wedding/</loc>
+    <loc>http://www.wovenpainting.com/post/wedding/</loc>
     <lastmod>2016-12-20T16:33:58+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.wovenpainting.com/en/post/heart/</loc>
+    <loc>http://www.wovenpainting.com/post/heart/</loc>
     <lastmod>2016-12-20T16:32:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.wovenpainting.com/en/post/friend/</loc>
+    <loc>http://www.wovenpainting.com/post/friend/</loc>
     <lastmod>2016-12-20T16:08:38+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.wovenpainting.com/en/post/maria/</loc>
+    <loc>http://www.wovenpainting.com/post/maria/</loc>
     <lastmod>2016-12-20T15:58:59+07:00</lastmod>
   </url>
   
