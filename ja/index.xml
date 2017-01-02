@@ -26,7 +26,10 @@
       <guid>http://www.wovenpainting.com/ja/post/beer_and_nonla/</guid>
       <description>&lt;p&gt;結婚式をおめでとございます。
 &lt;figure&gt;
-  &lt;img src=&#34;http://www.wovenpainting.com/images/beer_and_nonla.jpg&#34; alt=&#34;結婚 images/beer_and_nonla.jpg&#34;&gt;
+  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
+    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/beer_and_nonla.jpg&#34; alt=&#34;結婚 images/beer_and_nonla.jpg&#34;&gt;
+    
+  &lt;/div&gt;
   
 &lt;/figure&gt;
 &lt;/p&gt;
@@ -44,7 +47,10 @@
       <description>&lt;p&gt;メリークリスマス&lt;/p&gt;
 
 &lt;figure&gt;
-  &lt;img src=&#34;http://www.wovenpainting.com/images/real_santa.jpg&#34; alt=&#34;メリークリスマス images/real_santa.jpg&#34;&gt;
+  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
+    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/real_santa.jpg&#34; alt=&#34;メリークリスマス images/real_santa.jpg&#34;&gt;
+    
+  &lt;/div&gt;
   
   &lt;figcaption&gt;
     
@@ -64,7 +70,10 @@
       
       <guid>http://www.wovenpainting.com/ja/simulation/papanoel/</guid>
       <description>&lt;figure&gt;
-  &lt;img src=&#34;http://www.wovenpainting.com/images/simulation/PapaNoel.jpg_simulation_0.jpg&#34; alt=&#34;サンタクロース images/simulation/PapaNoel.jpg_simulation_0.jpg&#34;&gt;
+  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
+    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/simulation/PapaNoel.jpg_simulation_0.jpg&#34; alt=&#34;サンタクロース images/simulation/PapaNoel.jpg_simulation_0.jpg&#34;&gt;
+    
+  &lt;/div&gt;
   
   &lt;figcaption&gt;
     
@@ -84,7 +93,10 @@
       
       <guid>http://www.wovenpainting.com/ja/simulation/jesus/</guid>
       <description>&lt;p&gt;&lt;figure&gt;
-  &lt;img src=&#34;http://www.wovenpainting.com/images/simulation/jesus.jpg&#34; alt=&#34;イエス・キリスト images/simulation/jesus.jpg&#34;&gt;
+  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
+    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/simulation/jesus.jpg&#34; alt=&#34;イエス・キリスト images/simulation/jesus.jpg&#34;&gt;
+    
+  &lt;/div&gt;
   
   &lt;figcaption&gt;
     
@@ -95,7 +107,10 @@
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&#34;http://www.wovenpainting.com/images/simulation/Drawing_Jesus.jpg_simulation_6.jpg&#34; alt=&#34;イエス・キリスト images/simulation/Drawing_Jesus.jpg_simulation_6.jpg&#34;&gt;
+  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
+    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/simulation/Drawing_Jesus.jpg_simulation_6.jpg&#34; alt=&#34;イエス・キリスト images/simulation/Drawing_Jesus.jpg_simulation_6.jpg&#34;&gt;
+    
+  &lt;/div&gt;
   
   &lt;figcaption&gt;
     
@@ -116,7 +131,10 @@
       <guid>http://www.wovenpainting.com/ja/post/wedding/</guid>
       <description>&lt;p&gt;結婚式をおめでとございます。
 &lt;figure&gt;
-  &lt;img src=&#34;http://www.wovenpainting.com/images/real_word_wedding.jpg&#34; alt=&#34;結婚 images/real_word_wedding.jpg&#34;&gt;
+  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
+    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/real_word_wedding.jpg&#34; alt=&#34;結婚 images/real_word_wedding.jpg&#34;&gt;
+    
+  &lt;/div&gt;
   
 &lt;/figure&gt;
 
@@ -131,7 +149,10 @@
       
       <guid>http://www.wovenpainting.com/ja/post/heart/</guid>
       <description>&lt;figure&gt;
-  &lt;img src=&#34;http://www.wovenpainting.com/images/real_word_heart.jpg&#34; alt=&#34;心 images/real_word_heart.jpg&#34;&gt;
+  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
+    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/real_word_heart.jpg&#34; alt=&#34;心 images/real_word_heart.jpg&#34;&gt;
+    
+  &lt;/div&gt;
   
   &lt;figcaption&gt;
     
@@ -152,7 +173,10 @@
       <guid>http://www.wovenpainting.com/ja/post/friend/</guid>
       <description>&lt;p&gt;お母さんとお母さんの友人は、中学校から今まで一年に一回一緒に集合します。
 &lt;figure&gt;
-  &lt;img src=&#34;http://www.wovenpainting.com/images/real_word_friend.jpg&#34; alt=&#34;友達 images/real_word_friend.jpg&#34;&gt;
+  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
+    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/real_word_friend.jpg&#34; alt=&#34;友達 images/real_word_friend.jpg&#34;&gt;
+    
+  &lt;/div&gt;
   
 &lt;/figure&gt;
 
@@ -167,7 +191,10 @@
       
       <guid>http://www.wovenpainting.com/ja/post/maria/</guid>
       <description>&lt;figure&gt;
-  &lt;img src=&#34;http://www.wovenpainting.com/images/real_portrait_maria.jpg&#34; alt=&#34;聖母マリア images/real_portrait_maria.jpg&#34;&gt;
+  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
+    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/real_portrait_maria.jpg&#34; alt=&#34;聖母マリア images/real_portrait_maria.jpg&#34;&gt;
+    
+  &lt;/div&gt;
   
   &lt;figcaption&gt;
     

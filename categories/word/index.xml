@@ -16,7 +16,10 @@
       <guid>http://www.wovenpainting.com/post/friend/</guid>
       <description>&lt;p&gt;My mother has a group of close friends since her school time. After more than 5 decades, they still keep gather together in a day near the end of each year.
 &lt;figure&gt;
-  &lt;img src=&#34;http://www.wovenpainting.com/images/real_word_friend.jpg&#34; alt=&#34;Friendship images/real_word_friend.jpg&#34;&gt;
+  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
+    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/real_word_friend.jpg&#34; alt=&#34;Friendship images/real_word_friend.jpg&#34;&gt;
+    
+  &lt;/div&gt;
   
 &lt;/figure&gt;
 

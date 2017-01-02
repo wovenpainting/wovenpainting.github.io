@@ -8,3 +8,21 @@
   filter: none;
   -webkit-filter: grayscale(0%);
 }
+
+#overlapthis {
+    background-image:url("mymessage.gif");
+    height:100px;
+    left:50px; /* play around with this */
+    position:absolute;
+    top:90px; /* and play around with this */
+    width:500px;
+}
+
+img.result {
+    position:relative; /* and this has to be relative */
+}
+img.original {
+    right:0px; /* play around with this */
+    position:absolute;
+    bottom:0px; /* and play around with this */
+}

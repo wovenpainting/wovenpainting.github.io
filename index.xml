@@ -17,7 +17,12 @@
       <guid>http://www.wovenpainting.com/post/maria_2/</guid>
       <description>&lt;p&gt;Another version of Maria Portrait
 &lt;figure&gt;
-  &lt;img src=&#34;http://www.wovenpainting.com/images/real_portrait_maria_2.jpg&#34; alt=&#34;Maria - Type 2 images/real_portrait_maria_2.jpg&#34;&gt;
+  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
+    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/real_portrait_maria_2.jpg&#34; alt=&#34;Maria - Type 2 images/real_portrait_maria_2.jpg&#34;&gt;
+    
+    &lt;img class=&#34;original&#34; src=&#34;http://www.wovenpainting.com/images/original/Maria2_o.png&#34; alt=&#34;Maria - Type 2 images/original/Maria2_o.png&#34;&gt;
+    
+  &lt;/div&gt;
   
 &lt;/figure&gt;
 &lt;/p&gt;
@@ -34,7 +39,10 @@
       <guid>http://www.wovenpainting.com/post/beer_and_nonla/</guid>
       <description>&lt;p&gt;Wish you a happy life ahead.
 &lt;figure&gt;
-  &lt;img src=&#34;http://www.wovenpainting.com/images/beer_and_nonla.jpg&#34; alt=&#34;Intercontinental Couple images/beer_and_nonla.jpg&#34;&gt;
+  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
+    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/beer_and_nonla.jpg&#34; alt=&#34;Intercontinental Couple images/beer_and_nonla.jpg&#34;&gt;
+    
+  &lt;/div&gt;
   
 &lt;/figure&gt;
 &lt;/p&gt;
@@ -54,7 +62,10 @@
       <description>&lt;p&gt;Despite some troubles on the way, we finally finish &amp;ldquo;Santa Claus&amp;rdquo; painting. A little late Merry Christmas to everyone.&lt;/p&gt;
 
 &lt;figure&gt;
-  &lt;img src=&#34;http://www.wovenpainting.com/images/real_santa.jpg&#34; alt=&#34;Ho Ho Ho. Merry Christmas everyone. images/real_santa.jpg&#34;&gt;
+  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
+    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/real_santa.jpg&#34; alt=&#34;Ho Ho Ho. Merry Christmas everyone. images/real_santa.jpg&#34;&gt;
+    
+  &lt;/div&gt;
   
   &lt;figcaption&gt;
     
@@ -74,7 +85,10 @@
       
       <guid>http://www.wovenpainting.com/simulation/papanoel/</guid>
       <description>&lt;figure&gt;
-  &lt;img src=&#34;http://www.wovenpainting.com/images/simulation/PapaNoel.jpg_simulation_0.jpg&#34; alt=&#34;Santa Claus images/simulation/PapaNoel.jpg_simulation_0.jpg&#34;&gt;
+  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
+    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/simulation/PapaNoel.jpg_simulation_0.jpg&#34; alt=&#34;Santa Claus images/simulation/PapaNoel.jpg_simulation_0.jpg&#34;&gt;
+    
+  &lt;/div&gt;
   
   &lt;figcaption&gt;
     
@@ -94,7 +108,10 @@
       
       <guid>http://www.wovenpainting.com/simulation/jesus/</guid>
       <description>&lt;p&gt;&lt;figure&gt;
-  &lt;img src=&#34;http://www.wovenpainting.com/images/simulation/jesus.jpg&#34; alt=&#34;Jesus Christ images/simulation/jesus.jpg&#34;&gt;
+  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
+    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/simulation/jesus.jpg&#34; alt=&#34;Jesus Christ images/simulation/jesus.jpg&#34;&gt;
+    
+  &lt;/div&gt;
   
   &lt;figcaption&gt;
     
@@ -105,7 +122,10 @@
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&#34;http://www.wovenpainting.com/images/simulation/Drawing_Jesus.jpg_simulation_6.jpg&#34; alt=&#34;Jesus Christ images/simulation/Drawing_Jesus.jpg_simulation_6.jpg&#34;&gt;
+  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
+    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/simulation/Drawing_Jesus.jpg_simulation_6.jpg&#34; alt=&#34;Jesus Christ images/simulation/Drawing_Jesus.jpg_simulation_6.jpg&#34;&gt;
+    
+  &lt;/div&gt;
   
   &lt;figcaption&gt;
     
@@ -126,7 +146,10 @@
       <guid>http://www.wovenpainting.com/post/wedding/</guid>
       <description>&lt;p&gt;Wish you a happy life ahead.
 &lt;figure&gt;
-  &lt;img src=&#34;http://www.wovenpainting.com/images/real_word_wedding.jpg&#34; alt=&#34;Wedding images/real_word_wedding.jpg&#34;&gt;
+  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
+    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/real_word_wedding.jpg&#34; alt=&#34;Wedding images/real_word_wedding.jpg&#34;&gt;
+    
+  &lt;/div&gt;
   
 &lt;/figure&gt;
 &lt;/p&gt;
@@ -140,7 +163,10 @@
       
       <guid>http://www.wovenpainting.com/post/heart/</guid>
       <description>&lt;figure&gt;
-  &lt;img src=&#34;http://www.wovenpainting.com/images/real_word_heart.jpg&#34; alt=&#34;Heart images/real_word_heart.jpg&#34;&gt;
+  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
+    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/real_word_heart.jpg&#34; alt=&#34;Heart images/real_word_heart.jpg&#34;&gt;
+    
+  &lt;/div&gt;
   
   &lt;figcaption&gt;
     
@@ -161,7 +187,10 @@
       <guid>http://www.wovenpainting.com/post/friend/</guid>
       <description>&lt;p&gt;My mother has a group of close friends since her school time. After more than 5 decades, they still keep gather together in a day near the end of each year.
 &lt;figure&gt;
-  &lt;img src=&#34;http://www.wovenpainting.com/images/real_word_friend.jpg&#34; alt=&#34;Friendship images/real_word_friend.jpg&#34;&gt;
+  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
+    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/real_word_friend.jpg&#34; alt=&#34;Friendship images/real_word_friend.jpg&#34;&gt;
+    
+  &lt;/div&gt;
   
 &lt;/figure&gt;
 
@@ -176,7 +205,10 @@ This year, I want to give them the word FRIEND. Wish all the best for them and t
       
       <guid>http://www.wovenpainting.com/post/maria/</guid>
       <description>&lt;figure&gt;
-  &lt;img src=&#34;http://www.wovenpainting.com/images/real_portrait_maria.jpg&#34; alt=&#34;Maria images/real_portrait_maria.jpg&#34;&gt;
+  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
+    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/real_portrait_maria.jpg&#34; alt=&#34;Maria images/real_portrait_maria.jpg&#34;&gt;
+    
+  &lt;/div&gt;
   
   &lt;figcaption&gt;
     
