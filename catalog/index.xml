@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Catalog-rsses on Woven Painting</title>
+    <link>http://www.wovenpainting.com/catalog/index.xml</link>
+    <description>Recent content in Catalog-rsses on Woven Painting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Jan 2017 17:44:25 +0700</lastBuildDate>
+    <atom:link href="http://www.wovenpainting.com/catalog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Celebrity Portraits</title>
+      <link>http://www.wovenpainting.com/catalog/celebrity/</link>
+      <pubDate>Thu, 05 Jan 2017 17:44:25 +0700</pubDate>
+      
+      <guid>http://www.wovenpainting.com/catalog/celebrity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portraits</title>
+      <link>http://www.wovenpainting.com/catalog/religion/</link>
+      <pubDate>Thu, 05 Jan 2017 15:28:21 +0700</pubDate>
+      
+      <guid>http://www.wovenpainting.com/catalog/religion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
