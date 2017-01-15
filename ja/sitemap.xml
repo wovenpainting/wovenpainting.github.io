@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.wovenpainting.com/ja/</loc>
-    <lastmod>2017-01-05T17:44:25+07:00</lastmod>
+    <loc>http://www.wovenpainting.com/ja/catalog/chibi_zodiac/</loc>
+    <lastmod>2017-01-15T15:28:21+07:00</lastmod>
   </url>
   
   <url>
@@ -59,6 +59,30 @@
   <url>
     <loc>http://www.wovenpainting.com/ja/post/maria/</loc>
     <lastmod>2016-12-20T15:58:59+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/ja/catalog/</loc>
+    <lastmod>2017-01-15T15:28:21+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/ja/post/</loc>
+    <lastmod>2017-01-02T13:33:55+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/ja/simulation/</loc>
+    <lastmod>2016-12-21T03:31:47+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/ja/</loc>
+    <lastmod>2017-01-15T15:28:21+07:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

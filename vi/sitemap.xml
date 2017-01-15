@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.wovenpainting.com/vi/</loc>
-    <lastmod>2017-01-05T17:44:25+07:00</lastmod>
+    <loc>http://www.wovenpainting.com/vi/catalog/chibi_zodiac/</loc>
+    <lastmod>2017-01-15T15:28:21+07:00</lastmod>
   </url>
   
   <url>
@@ -59,6 +59,76 @@
   <url>
     <loc>http://www.wovenpainting.com/vi/post/maria/</loc>
     <lastmod>2016-12-20T15:58:59+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/vi/tags/b%E1%BA%A1n/</loc>
+    <lastmod>2016-12-20T16:08:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/vi/catalog/</loc>
+    <lastmod>2017-01-15T15:28:21+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/vi/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/vi/categories/ch%E1%BB%AF/</loc>
+    <lastmod>2016-12-20T16:08:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/vi/tags/ch%E1%BB%AF-h%C3%A1n/</loc>
+    <lastmod>2016-12-20T16:08:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/vi/categories/ho%C3%A0n-t%E1%BA%A5t/</loc>
+    <lastmod>2017-01-02T13:33:55+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/vi/post/</loc>
+    <lastmod>2017-01-02T13:33:55+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/vi/tags/qu%C3%A0/</loc>
+    <lastmod>2017-01-02T13:33:55+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/vi/simulation/</loc>
+    <lastmod>2016-12-21T03:31:47+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/vi/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/vi/</loc>
+    <lastmod>2017-01-15T15:28:21+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/vi/tags/%C4%91%C3%A1m-c%C6%B0%E1%BB%9Bi/</loc>
+    <lastmod>2017-01-01T19:33:55+07:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

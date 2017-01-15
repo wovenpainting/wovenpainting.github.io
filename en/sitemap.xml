@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.wovenpainting.com/</loc>
-    <lastmod>2017-01-05T17:44:25+07:00</lastmod>
+    <loc>http://www.wovenpainting.com/catalog/chibi_zodiac/</loc>
+    <lastmod>2017-01-15T15:28:21+07:00</lastmod>
   </url>
   
   <url>
@@ -59,6 +59,88 @@
   <url>
     <loc>http://www.wovenpainting.com/post/maria/</loc>
     <lastmod>2016-12-20T15:58:59+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/catalog/</loc>
+    <lastmod>2017-01-15T15:28:21+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/tags/chinese/</loc>
+    <lastmod>2016-12-20T16:08:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/categories/done/</loc>
+    <lastmod>2017-01-02T13:33:55+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/tags/friendship/</loc>
+    <lastmod>2016-12-20T16:08:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/tags/gift/</loc>
+    <lastmod>2017-01-02T13:33:55+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/categories/plan/</loc>
+    <lastmod>2016-12-21T03:31:47+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/categories/portrait/</loc>
+    <lastmod>2016-12-21T03:31:47+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/post/</loc>
+    <lastmod>2017-01-02T13:33:55+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/simulation/</loc>
+    <lastmod>2016-12-21T03:31:47+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/tags/wedding/</loc>
+    <lastmod>2017-01-02T13:33:55+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/categories/word/</loc>
+    <lastmod>2016-12-20T16:08:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wovenpainting.com/</loc>
+    <lastmod>2017-01-15T15:28:21+07:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
