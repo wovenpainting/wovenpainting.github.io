@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.wovenpainting.com/ja/catalog/andy_warhol_style/</loc>
+    <lastmod>2017-01-26T17:44:25+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.wovenpainting.com/ja/catalog/chibi_zodiac/</loc>
     <lastmod>2017-01-22T15:28:21+07:00</lastmod>
   </url>
@@ -63,7 +68,7 @@
   
   <url>
     <loc>http://www.wovenpainting.com/ja/catalog/</loc>
-    <lastmod>2017-01-22T15:28:21+07:00</lastmod>
+    <lastmod>2017-01-26T17:44:25+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -81,7 +86,7 @@
   
   <url>
     <loc>http://www.wovenpainting.com/ja/</loc>
-    <lastmod>2017-01-22T15:28:21+07:00</lastmod>
+    <lastmod>2017-01-26T17:44:25+07:00</lastmod>
     <priority>0</priority>
   </url>
   
