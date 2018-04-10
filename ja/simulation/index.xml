@@ -2,71 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simulations on 絵画</title>
-    <link>http://www.wovenpainting.com/ja/simulation/index.xml</link>
+    <link>http://tranhchi.quanphan.net/ja/simulation/</link>
     <description>Recent content in Simulations on 絵画</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 21 Dec 2016 03:31:47 +0700</lastBuildDate>
-    <atom:link href="http://www.wovenpainting.com/ja/simulation/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://tranhchi.quanphan.net/ja/simulation/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>サンタクロース</title>
-      <link>http://www.wovenpainting.com/ja/simulation/papanoel/</link>
+      <link>http://tranhchi.quanphan.net/ja/simulation/papanoel/</link>
       <pubDate>Wed, 21 Dec 2016 03:31:47 +0700</pubDate>
       
-      <guid>http://www.wovenpainting.com/ja/simulation/papanoel/</guid>
-      <description>&lt;figure&gt;
-  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
-    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/simulation/PapaNoel.jpg_simulation_d0_n200.jpg&#34; alt=&#34;サンタクロース images/simulation/PapaNoel.jpg_simulation_d0_n200.jpg&#34;&gt;
-    
-  &lt;/div&gt;
-  
-  &lt;figcaption&gt;
-    
-    サンタクロース
-    
-  &lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-</description>
+      <guid>http://tranhchi.quanphan.net/ja/simulation/papanoel/</guid>
+      <description>   サンタクロース   </description>
     </item>
     
     <item>
       <title>イエス・キリスト</title>
-      <link>http://www.wovenpainting.com/ja/simulation/jesus/</link>
+      <link>http://tranhchi.quanphan.net/ja/simulation/jesus/</link>
       <pubDate>Tue, 20 Dec 2016 17:00:41 +0700</pubDate>
       
-      <guid>http://www.wovenpainting.com/ja/simulation/jesus/</guid>
-      <description>&lt;p&gt;&lt;figure&gt;
-  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
-    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/simulation/Jesus.png_simulation_d0_n200.jpg&#34; alt=&#34;イエス・キリスト images/simulation/Jesus.png_simulation_d0_n200.jpg&#34;&gt;
-    
-  &lt;/div&gt;
-  
-  &lt;figcaption&gt;
-    
-    円枠
-    
-  &lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;figure&gt;
-  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
-    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/simulation/Jesus.png_simulation_d6_n200.jpg&#34; alt=&#34;イエス・キリスト images/simulation/Jesus.png_simulation_d6_n200.jpg&#34;&gt;
-    
-  &lt;/div&gt;
-  
-  &lt;figcaption&gt;
-    
-    六角形枠
-    
-  &lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-&lt;/p&gt;
-</description>
+      <guid>http://tranhchi.quanphan.net/ja/simulation/jesus/</guid>
+      <description>   円枠      六角形枠   </description>
     </item>
     
   </channel>

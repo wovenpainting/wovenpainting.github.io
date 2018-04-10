@@ -1,93 +1,389 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.wovenpainting.com/ja/catalog/andy_warhol_style/</loc>
+    <loc>http://tranhchi.quanphan.net/ja/catalog/andy_warhol_style/</loc>
     <lastmod>2017-01-26T17:44:25+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tranhchi.quanphan.net/catalog/andy_warhol_style/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://tranhchi.quanphan.net/vi/catalog/andy_warhol_style/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://tranhchi.quanphan.net/ja/catalog/andy_warhol_style/"
+                />
   </url>
   
   <url>
-    <loc>http://www.wovenpainting.com/ja/catalog/chibi_zodiac/</loc>
+    <loc>http://tranhchi.quanphan.net/ja/catalog/chibi_zodiac/</loc>
     <lastmod>2017-01-22T15:28:21+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tranhchi.quanphan.net/catalog/chibi_zodiac/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://tranhchi.quanphan.net/vi/catalog/chibi_zodiac/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://tranhchi.quanphan.net/ja/catalog/chibi_zodiac/"
+                />
   </url>
   
   <url>
-    <loc>http://www.wovenpainting.com/ja/catalog/celebrity/</loc>
+    <loc>http://tranhchi.quanphan.net/ja/catalog/celebrity/</loc>
     <lastmod>2017-01-05T17:44:25+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tranhchi.quanphan.net/catalog/celebrity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://tranhchi.quanphan.net/vi/catalog/celebrity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://tranhchi.quanphan.net/ja/catalog/celebrity/"
+                />
   </url>
   
   <url>
-    <loc>http://www.wovenpainting.com/ja/catalog/religion/</loc>
+    <loc>http://tranhchi.quanphan.net/ja/catalog/religion/</loc>
     <lastmod>2017-01-05T15:28:21+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tranhchi.quanphan.net/catalog/religion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://tranhchi.quanphan.net/vi/catalog/religion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://tranhchi.quanphan.net/ja/catalog/religion/"
+                />
   </url>
   
   <url>
-    <loc>http://www.wovenpainting.com/ja/post/maria_2/</loc>
+    <loc>http://tranhchi.quanphan.net/ja/post/maria_2/</loc>
     <lastmod>2017-01-02T13:33:55+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tranhchi.quanphan.net/post/maria_2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://tranhchi.quanphan.net/vi/post/maria_2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://tranhchi.quanphan.net/ja/post/maria_2/"
+                />
   </url>
   
   <url>
-    <loc>http://www.wovenpainting.com/ja/post/beer_and_nonla/</loc>
+    <loc>http://tranhchi.quanphan.net/ja/post/beer_and_nonla/</loc>
     <lastmod>2017-01-01T19:33:55+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tranhchi.quanphan.net/post/beer_and_nonla/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://tranhchi.quanphan.net/vi/post/beer_and_nonla/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://tranhchi.quanphan.net/ja/post/beer_and_nonla/"
+                />
   </url>
   
   <url>
-    <loc>http://www.wovenpainting.com/ja/post/merryxmas/</loc>
+    <loc>http://tranhchi.quanphan.net/ja/post/merryxmas/</loc>
     <lastmod>2016-12-25T16:16:14+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tranhchi.quanphan.net/post/merryxmas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://tranhchi.quanphan.net/vi/post/merryxmas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://tranhchi.quanphan.net/ja/post/merryxmas/"
+                />
   </url>
   
   <url>
-    <loc>http://www.wovenpainting.com/ja/simulation/papanoel/</loc>
+    <loc>http://tranhchi.quanphan.net/ja/simulation/papanoel/</loc>
     <lastmod>2016-12-21T03:31:47+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tranhchi.quanphan.net/simulation/papanoel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://tranhchi.quanphan.net/vi/simulation/papanoel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://tranhchi.quanphan.net/ja/simulation/papanoel/"
+                />
   </url>
   
   <url>
-    <loc>http://www.wovenpainting.com/ja/simulation/jesus/</loc>
+    <loc>http://tranhchi.quanphan.net/ja/simulation/jesus/</loc>
     <lastmod>2016-12-20T17:00:41+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tranhchi.quanphan.net/simulation/jesus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://tranhchi.quanphan.net/vi/simulation/jesus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://tranhchi.quanphan.net/ja/simulation/jesus/"
+                />
   </url>
   
   <url>
-    <loc>http://www.wovenpainting.com/ja/post/wedding/</loc>
+    <loc>http://tranhchi.quanphan.net/ja/post/wedding/</loc>
     <lastmod>2016-12-20T16:33:58+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tranhchi.quanphan.net/post/wedding/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://tranhchi.quanphan.net/vi/post/wedding/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://tranhchi.quanphan.net/ja/post/wedding/"
+                />
   </url>
   
   <url>
-    <loc>http://www.wovenpainting.com/ja/post/heart/</loc>
+    <loc>http://tranhchi.quanphan.net/ja/post/heart/</loc>
     <lastmod>2016-12-20T16:28:42+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tranhchi.quanphan.net/post/heart/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://tranhchi.quanphan.net/vi/post/heart/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://tranhchi.quanphan.net/ja/post/heart/"
+                />
   </url>
   
   <url>
-    <loc>http://www.wovenpainting.com/ja/post/friend/</loc>
+    <loc>http://tranhchi.quanphan.net/ja/post/friend/</loc>
     <lastmod>2016-12-20T16:08:38+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tranhchi.quanphan.net/post/friend/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://tranhchi.quanphan.net/vi/post/friend/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://tranhchi.quanphan.net/ja/post/friend/"
+                />
   </url>
   
   <url>
-    <loc>http://www.wovenpainting.com/ja/post/maria/</loc>
+    <loc>http://tranhchi.quanphan.net/ja/post/maria/</loc>
     <lastmod>2016-12-20T15:58:59+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tranhchi.quanphan.net/post/maria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://tranhchi.quanphan.net/vi/post/maria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://tranhchi.quanphan.net/ja/post/maria/"
+                />
   </url>
   
   <url>
-    <loc>http://www.wovenpainting.com/ja/catalog/</loc>
+    <loc>http://tranhchi.quanphan.net/ja/catalog/</loc>
     <lastmod>2017-01-26T17:44:25+07:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tranhchi.quanphan.net/catalog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://tranhchi.quanphan.net/vi/catalog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://tranhchi.quanphan.net/ja/catalog/"
+                />
   </url>
   
   <url>
-    <loc>http://www.wovenpainting.com/ja/post/</loc>
+    <loc>http://tranhchi.quanphan.net/ja/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tranhchi.quanphan.net/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://tranhchi.quanphan.net/vi/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://tranhchi.quanphan.net/ja/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://tranhchi.quanphan.net/ja/post/</loc>
     <lastmod>2017-01-02T13:33:55+07:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tranhchi.quanphan.net/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://tranhchi.quanphan.net/vi/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://tranhchi.quanphan.net/ja/post/"
+                />
   </url>
   
   <url>
-    <loc>http://www.wovenpainting.com/ja/simulation/</loc>
+    <loc>http://tranhchi.quanphan.net/ja/simulation/</loc>
     <lastmod>2016-12-21T03:31:47+07:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tranhchi.quanphan.net/simulation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://tranhchi.quanphan.net/vi/simulation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://tranhchi.quanphan.net/ja/simulation/"
+                />
   </url>
   
   <url>
-    <loc>http://www.wovenpainting.com/ja/</loc>
+    <loc>http://tranhchi.quanphan.net/ja/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tranhchi.quanphan.net/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://tranhchi.quanphan.net/vi/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://tranhchi.quanphan.net/ja/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://tranhchi.quanphan.net/ja/</loc>
     <lastmod>2017-01-26T17:44:25+07:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tranhchi.quanphan.net/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://tranhchi.quanphan.net/vi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://tranhchi.quanphan.net/ja/"
+                />
   </url>
   
 </urlset>

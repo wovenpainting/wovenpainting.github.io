@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Tranh Chỉ</title>
+    <link>http://tranhchi.quanphan.net/vi/categories/</link>
+    <description>Recent content in Categories on Tranh Chỉ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    
+	<atom:link href="http://tranhchi.quanphan.net/vi/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chữ</title>
+      <link>http://tranhchi.quanphan.net/vi/categories/ch%E1%BB%AF/</link>
+      <pubDate>Tue, 20 Dec 2016 16:08:38 +0700</pubDate>
+      
+      <guid>http://tranhchi.quanphan.net/vi/categories/ch%E1%BB%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hoàn Tất</title>
+      <link>http://tranhchi.quanphan.net/vi/categories/ho%C3%A0n-t%E1%BA%A5t/</link>
+      <pubDate>Mon, 02 Jan 2017 13:33:55 +0700</pubDate>
+      
+      <guid>http://tranhchi.quanphan.net/vi/categories/ho%C3%A0n-t%E1%BA%A5t/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

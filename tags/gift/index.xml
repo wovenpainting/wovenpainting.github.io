@@ -2,72 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gift on Woven Painting</title>
-    <link>http://www.wovenpainting.com/tags/gift/index.xml</link>
+    <link>http://tranhchi.quanphan.net/tags/gift/</link>
     <description>Recent content in Gift on Woven Painting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://www.wovenpainting.com/tags/gift/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2017 13:33:55 +0700</lastBuildDate>
+    
+	<atom:link href="http://tranhchi.quanphan.net/tags/gift/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Maria - Type 2</title>
-      <link>http://www.wovenpainting.com/post/maria_2/</link>
+      <link>http://tranhchi.quanphan.net/post/maria_2/</link>
       <pubDate>Mon, 02 Jan 2017 13:33:55 +0700</pubDate>
       
-      <guid>http://www.wovenpainting.com/post/maria_2/</guid>
-      <description>&lt;p&gt;Another version of Maria Portrait
-&lt;figure&gt;
-  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
-    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/real_portrait_maria_2.jpg&#34; alt=&#34;Maria - Type 2 images/real_portrait_maria_2.jpg&#34;&gt;
-    
-    &lt;img class=&#34;original&#34; src=&#34;http://www.wovenpainting.com/images/original/Maria2_o.png&#34; alt=&#34;Maria - Type 2 images/original/Maria2_o.png&#34;&gt;
-    
-  &lt;/div&gt;
-  
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Compare to the other version, which one you prefer?&lt;/p&gt;
-</description>
+      <guid>http://tranhchi.quanphan.net/post/maria_2/</guid>
+      <description>Another version of Maria Portrait    Compare to the other version, which one you prefer?</description>
     </item>
     
     <item>
       <title>Intercontinental Couple</title>
-      <link>http://www.wovenpainting.com/post/beer_and_nonla/</link>
+      <link>http://tranhchi.quanphan.net/post/beer_and_nonla/</link>
       <pubDate>Sun, 01 Jan 2017 19:33:55 +0700</pubDate>
       
-      <guid>http://www.wovenpainting.com/post/beer_and_nonla/</guid>
-      <description>&lt;p&gt;Wish you a happy life ahead.
-&lt;figure&gt;
-  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
-    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/beer_and_nonla.jpg&#34; alt=&#34;Intercontinental Couple images/beer_and_nonla.jpg&#34;&gt;
-    
-  &lt;/div&gt;
-  
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Dear my classmate, friend, and boss &lt;i class=&#34;fa fa-smile-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;, I wish you all the best with your new family.&lt;/p&gt;
-
-&lt;p&gt;This image is a little abstract, so you have to guess &lt;i class=&#34;fa fa-binoculars&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;.&lt;/p&gt;
-</description>
+      <guid>http://tranhchi.quanphan.net/post/beer_and_nonla/</guid>
+      <description>Wish you a happy life ahead.    Dear my classmate, friend, and boss , I wish you all the best with your new family.
+This image is a little abstract, so you have to guess .</description>
     </item>
     
     <item>
       <title>Wedding</title>
-      <link>http://www.wovenpainting.com/post/wedding/</link>
+      <link>http://tranhchi.quanphan.net/post/wedding/</link>
       <pubDate>Tue, 20 Dec 2016 16:33:58 +0700</pubDate>
       
-      <guid>http://www.wovenpainting.com/post/wedding/</guid>
-      <description>&lt;p&gt;Wish you a happy life ahead.
-&lt;figure&gt;
-  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
-    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/real_word_wedding.jpg&#34; alt=&#34;Wedding images/real_word_wedding.jpg&#34;&gt;
-    
-  &lt;/div&gt;
-  
-&lt;/figure&gt;
-&lt;/p&gt;
-</description>
+      <guid>http://tranhchi.quanphan.net/post/wedding/</guid>
+      <description>Wish you a happy life ahead.    </description>
     </item>
     
   </channel>

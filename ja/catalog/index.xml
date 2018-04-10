@@ -2,47 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Catalogs on 絵画</title>
-    <link>http://www.wovenpainting.com/ja/catalog/index.xml</link>
+    <link>http://tranhchi.quanphan.net/ja/catalog/</link>
     <description>Recent content in Catalogs on 絵画</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 26 Jan 2017 17:44:25 +0700</lastBuildDate>
-    <atom:link href="http://www.wovenpainting.com/ja/catalog/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://tranhchi.quanphan.net/ja/catalog/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>ポップアート</title>
-      <link>http://www.wovenpainting.com/ja/catalog/andy_warhol_style/</link>
+      <link>http://tranhchi.quanphan.net/ja/catalog/andy_warhol_style/</link>
       <pubDate>Thu, 26 Jan 2017 17:44:25 +0700</pubDate>
       
-      <guid>http://www.wovenpainting.com/ja/catalog/andy_warhol_style/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%BC%E3%83%88&#34;&gt;ポップアート&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>http://tranhchi.quanphan.net/ja/catalog/andy_warhol_style/</guid>
+      <description>ポップアート.</description>
     </item>
     
     <item>
       <title>Chibi Zodiac</title>
-      <link>http://www.wovenpainting.com/ja/catalog/chibi_zodiac/</link>
+      <link>http://tranhchi.quanphan.net/ja/catalog/chibi_zodiac/</link>
       <pubDate>Sun, 22 Jan 2017 15:28:21 +0700</pubDate>
       
-      <guid>http://www.wovenpainting.com/ja/catalog/chibi_zodiac/</guid>
+      <guid>http://tranhchi.quanphan.net/ja/catalog/chibi_zodiac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Celebrity Portraits</title>
-      <link>http://www.wovenpainting.com/ja/catalog/celebrity/</link>
+      <link>http://tranhchi.quanphan.net/ja/catalog/celebrity/</link>
       <pubDate>Thu, 05 Jan 2017 17:44:25 +0700</pubDate>
       
-      <guid>http://www.wovenpainting.com/ja/catalog/celebrity/</guid>
+      <guid>http://tranhchi.quanphan.net/ja/catalog/celebrity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Portraits</title>
-      <link>http://www.wovenpainting.com/ja/catalog/religion/</link>
+      <link>http://tranhchi.quanphan.net/ja/catalog/religion/</link>
       <pubDate>Thu, 05 Jan 2017 15:28:21 +0700</pubDate>
       
-      <guid>http://www.wovenpainting.com/ja/catalog/religion/</guid>
+      <guid>http://tranhchi.quanphan.net/ja/catalog/religion/</guid>
       <description></description>
     </item>
     

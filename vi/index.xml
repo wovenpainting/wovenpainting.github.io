@@ -2,261 +2,133 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tranh Chỉ</title>
-    <link>http://www.wovenpainting.com/vi/index.xml</link>
+    <link>http://tranhchi.quanphan.net/vi/</link>
     <description>Recent content on Tranh Chỉ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
     <lastBuildDate>Thu, 26 Jan 2017 17:44:25 +0700</lastBuildDate>
-    <atom:link href="http://www.wovenpainting.com/vi/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://tranhchi.quanphan.net/vi/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Tranh chỉ theo phái Pop Art</title>
-      <link>http://www.wovenpainting.com/vi/catalog/andy_warhol_style/</link>
+      <link>http://tranhchi.quanphan.net/vi/catalog/andy_warhol_style/</link>
       <pubDate>Thu, 26 Jan 2017 17:44:25 +0700</pubDate>
       
-      <guid>http://www.wovenpainting.com/vi/catalog/andy_warhol_style/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://vi.wikipedia.org/wiki/Pop_art&#34;&gt;Tìm hiểu thêm về Pop Art&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>http://tranhchi.quanphan.net/vi/catalog/andy_warhol_style/</guid>
+      <description>Tìm hiểu thêm về Pop Art.</description>
     </item>
     
     <item>
       <title>Con giáp - Phong Cách Chibi</title>
-      <link>http://www.wovenpainting.com/vi/catalog/chibi_zodiac/</link>
+      <link>http://tranhchi.quanphan.net/vi/catalog/chibi_zodiac/</link>
       <pubDate>Sun, 22 Jan 2017 15:28:21 +0700</pubDate>
       
-      <guid>http://www.wovenpainting.com/vi/catalog/chibi_zodiac/</guid>
+      <guid>http://tranhchi.quanphan.net/vi/catalog/chibi_zodiac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chân Dung Người Nổi Tiếng</title>
-      <link>http://www.wovenpainting.com/vi/catalog/celebrity/</link>
+      <link>http://tranhchi.quanphan.net/vi/catalog/celebrity/</link>
       <pubDate>Thu, 05 Jan 2017 17:44:25 +0700</pubDate>
       
-      <guid>http://www.wovenpainting.com/vi/catalog/celebrity/</guid>
+      <guid>http://tranhchi.quanphan.net/vi/catalog/celebrity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chân Dung</title>
-      <link>http://www.wovenpainting.com/vi/catalog/religion/</link>
+      <link>http://tranhchi.quanphan.net/vi/catalog/religion/</link>
       <pubDate>Thu, 05 Jan 2017 15:28:21 +0700</pubDate>
       
-      <guid>http://www.wovenpainting.com/vi/catalog/religion/</guid>
+      <guid>http://tranhchi.quanphan.net/vi/catalog/religion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chân Dung Đức Mẹ - Kiểu 2</title>
-      <link>http://www.wovenpainting.com/vi/post/maria_2/</link>
+      <link>http://tranhchi.quanphan.net/vi/post/maria_2/</link>
       <pubDate>Mon, 02 Jan 2017 13:33:55 +0700</pubDate>
       
-      <guid>http://www.wovenpainting.com/vi/post/maria_2/</guid>
-      <description>&lt;p&gt;Chân dung Đức Mẹ theo một phong cách khác
-&lt;figure&gt;
-  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
-    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/real_portrait_maria_2.jpg&#34; alt=&#34;Chân Dung Đức Mẹ - Kiểu 2 images/real_portrait_maria_2.jpg&#34;&gt;
-    
-  &lt;/div&gt;
-  
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Mọi người thích phiên bản nào hơn?&lt;/p&gt;
-</description>
+      <guid>http://tranhchi.quanphan.net/vi/post/maria_2/</guid>
+      <description>Chân dung Đức Mẹ theo một phong cách khác    Mọi người thích phiên bản nào hơn?</description>
     </item>
     
     <item>
       <title>Cặp đôi xuyên Á-Âu</title>
-      <link>http://www.wovenpainting.com/vi/post/beer_and_nonla/</link>
+      <link>http://tranhchi.quanphan.net/vi/post/beer_and_nonla/</link>
       <pubDate>Sun, 01 Jan 2017 19:33:55 +0700</pubDate>
       
-      <guid>http://www.wovenpainting.com/vi/post/beer_and_nonla/</guid>
-      <description>&lt;p&gt;Chúc hai bạn trăm năm hạnh phúc
-&lt;figure&gt;
-  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
-    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/beer_and_nonla.jpg&#34; alt=&#34;Cặp đôi xuyên Á-Âu images/beer_and_nonla.jpg&#34;&gt;
-    
-  &lt;/div&gt;
-  
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Chúc hai bạn có một gia đình hạnh phúc, vui vẻ &lt;i class=&#34;fa fa-smile-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;.&lt;/p&gt;
-
-&lt;p&gt;Hình hơi trừu tượng một tí, các bạn đoán thử xem nó là gì &lt;i class=&#34;fa fa-binoculars&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;.&lt;/p&gt;
-</description>
+      <guid>http://tranhchi.quanphan.net/vi/post/beer_and_nonla/</guid>
+      <description>Chúc hai bạn trăm năm hạnh phúc    Chúc hai bạn có một gia đình hạnh phúc, vui vẻ .
+Hình hơi trừu tượng một tí, các bạn đoán thử xem nó là gì .</description>
     </item>
     
     <item>
       <title>Giáng Sinh vui vẻ</title>
-      <link>http://www.wovenpainting.com/vi/post/merryxmas/</link>
+      <link>http://tranhchi.quanphan.net/vi/post/merryxmas/</link>
       <pubDate>Sun, 25 Dec 2016 16:16:14 +0700</pubDate>
       
-      <guid>http://www.wovenpainting.com/vi/post/merryxmas/</guid>
-      <description>&lt;p&gt;Sau khá nhiều trục trặc, cuối cùng hình Ông Già Noel cũng trình làng. Chúc mọi người Giáng Sinh vui vẻ và hạnh phúc.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
-    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/real_santa.jpg&#34; alt=&#34;Giáng Sinh vui vẻ images/real_santa.jpg&#34;&gt;
-    
-  &lt;/div&gt;
-  
-  &lt;figcaption&gt;
-    
-    Ông già Noel
-    
-  &lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-</description>
+      <guid>http://tranhchi.quanphan.net/vi/post/merryxmas/</guid>
+      <description>Sau khá nhiều trục trặc, cuối cùng hình Ông Già Noel cũng trình làng. Chúc mọi người Giáng Sinh vui vẻ và hạnh phúc.
+   Ông già Noel   </description>
     </item>
     
     <item>
       <title>Ông Già Noel</title>
-      <link>http://www.wovenpainting.com/vi/simulation/papanoel/</link>
+      <link>http://tranhchi.quanphan.net/vi/simulation/papanoel/</link>
       <pubDate>Wed, 21 Dec 2016 03:31:47 +0700</pubDate>
       
-      <guid>http://www.wovenpainting.com/vi/simulation/papanoel/</guid>
-      <description>&lt;figure&gt;
-  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
-    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/simulation/PapaNoel.jpg_simulation_d0_n200.jpg&#34; alt=&#34;Ông Già Noel images/simulation/PapaNoel.jpg_simulation_d0_n200.jpg&#34;&gt;
-    
-  &lt;/div&gt;
-  
-  &lt;figcaption&gt;
-    
-    Ông Già Noel khung tròn
-    
-  &lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-</description>
+      <guid>http://tranhchi.quanphan.net/vi/simulation/papanoel/</guid>
+      <description>   Ông Già Noel khung tròn   </description>
     </item>
     
     <item>
       <title>Đức Chúa Jesus</title>
-      <link>http://www.wovenpainting.com/vi/simulation/jesus/</link>
+      <link>http://tranhchi.quanphan.net/vi/simulation/jesus/</link>
       <pubDate>Tue, 20 Dec 2016 17:00:41 +0700</pubDate>
       
-      <guid>http://www.wovenpainting.com/vi/simulation/jesus/</guid>
-      <description>&lt;p&gt;&lt;figure&gt;
-  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
-    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/simulation/Jesus.png_simulation_d0_n200.jpg&#34; alt=&#34;Đức Chúa Jesus images/simulation/Jesus.png_simulation_d0_n200.jpg&#34;&gt;
-    
-  &lt;/div&gt;
-  
-  &lt;figcaption&gt;
-    
-    Khung Tròn
-    
-  &lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;figure&gt;
-  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
-    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/simulation/Jesus.png_simulation_d6_n200.jpg&#34; alt=&#34;Đức Chúa Jesus images/simulation/Jesus.png_simulation_d6_n200.jpg&#34;&gt;
-    
-  &lt;/div&gt;
-  
-  &lt;figcaption&gt;
-    
-    Khung Lục Giác
-    
-  &lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-&lt;/p&gt;
-</description>
+      <guid>http://tranhchi.quanphan.net/vi/simulation/jesus/</guid>
+      <description>   Khung Tròn      Khung Lục Giác   </description>
     </item>
     
     <item>
       <title>Vui cưới</title>
-      <link>http://www.wovenpainting.com/vi/post/wedding/</link>
+      <link>http://tranhchi.quanphan.net/vi/post/wedding/</link>
       <pubDate>Tue, 20 Dec 2016 16:33:58 +0700</pubDate>
       
-      <guid>http://www.wovenpainting.com/vi/post/wedding/</guid>
-      <description>&lt;p&gt;Chúc hai bạn trăm năm hạnh phúc
-&lt;figure&gt;
-  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
-    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/real_word_wedding.jpg&#34; alt=&#34;Vui cưới images/real_word_wedding.jpg&#34;&gt;
-    
-  &lt;/div&gt;
-  
-&lt;/figure&gt;
-&lt;/p&gt;
-</description>
+      <guid>http://tranhchi.quanphan.net/vi/post/wedding/</guid>
+      <description>Chúc hai bạn trăm năm hạnh phúc    </description>
     </item>
     
     <item>
       <title>Tâm</title>
-      <link>http://www.wovenpainting.com/vi/post/heart/</link>
+      <link>http://tranhchi.quanphan.net/vi/post/heart/</link>
       <pubDate>Tue, 20 Dec 2016 16:28:42 +0700</pubDate>
       
-      <guid>http://www.wovenpainting.com/vi/post/heart/</guid>
-      <description>&lt;p&gt;&lt;figure&gt;
-  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
-    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/real_word_heart.jpg&#34; alt=&#34;Tâm images/real_word_heart.jpg&#34;&gt;
-    
-  &lt;/div&gt;
-  
-  &lt;figcaption&gt;
-    
-    Tâm
-    
-  &lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-Thiện căn ở tại lòng ta&lt;/p&gt;
-
-&lt;p&gt;Chữ Tâm kia mới bằng ba chữ Tài&lt;/p&gt;
-</description>
+      <guid>http://tranhchi.quanphan.net/vi/post/heart/</guid>
+      <description>Tâm   Thiện căn ở tại lòng ta
+Chữ Tâm kia mới bằng ba chữ Tài</description>
     </item>
     
     <item>
       <title>Bằng Hữu</title>
-      <link>http://www.wovenpainting.com/vi/post/friend/</link>
+      <link>http://tranhchi.quanphan.net/vi/post/friend/</link>
       <pubDate>Tue, 20 Dec 2016 16:08:38 +0700</pubDate>
       
-      <guid>http://www.wovenpainting.com/vi/post/friend/</guid>
-      <description>&lt;p&gt;Mẹ tôi có một nhóm bạn chơi thân từ hồi còn cắp sách đến trường. Đến bây giờ, sau hơn 5 thập kỷ, hàng năm, mọi người vẫn giữ thói quen dành ra một ngày để họp mặt.
-&lt;figure&gt;
-  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
-    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/real_word_friend.jpg&#34; alt=&#34;Bằng Hữu images/real_word_friend.jpg&#34;&gt;
-    
-  &lt;/div&gt;
-  
-&lt;/figure&gt;
-
-Năm nay, tôi xin tặng mẹ và các dì hai chữ BẰNG HỮU, mong mọi người được sức khoẻ để vui vẻ với gia đình.&lt;/p&gt;
-</description>
+      <guid>http://tranhchi.quanphan.net/vi/post/friend/</guid>
+      <description>Mẹ tôi có một nhóm bạn chơi thân từ hồi còn cắp sách đến trường. Đến bây giờ, sau hơn 5 thập kỷ, hàng năm, mọi người vẫn giữ thói quen dành ra một ngày để họp mặt.    Năm nay, tôi xin tặng mẹ và các dì hai chữ BẰNG HỮU, mong mọi người được sức khoẻ để vui vẻ với gia đình.</description>
     </item>
     
     <item>
       <title>Đức Mẹ Maria</title>
-      <link>http://www.wovenpainting.com/vi/post/maria/</link>
+      <link>http://tranhchi.quanphan.net/vi/post/maria/</link>
       <pubDate>Tue, 20 Dec 2016 15:58:59 +0700</pubDate>
       
-      <guid>http://www.wovenpainting.com/vi/post/maria/</guid>
-      <description>&lt;figure&gt;
-  &lt;div style=&#34;position: relative; left: 0; top: 0;&#34;&gt;
-    &lt;img class=&#34;result&#34; src=&#34;http://www.wovenpainting.com/images/real_portrait_maria.jpg&#34; alt=&#34;Đức Mẹ Maria images/real_portrait_maria.jpg&#34;&gt;
-    
-  &lt;/div&gt;
-  
-  &lt;figcaption&gt;
-    
-    Đức Mẹ Maria
-    
-  &lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-</description>
+      <guid>http://tranhchi.quanphan.net/vi/post/maria/</guid>
+      <description>   Đức Mẹ Maria   </description>
     </item>
     
   </channel>
