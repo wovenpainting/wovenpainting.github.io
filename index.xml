@@ -6,10 +6,28 @@
     <description>Recent content on Woven Painting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Jan 2017 17:44:25 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 Apr 2018 00:40:33 +0700</lastBuildDate>
     
 	<atom:link href="http://tranhchi.quanphan.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About me</title>
+      <link>http://tranhchi.quanphan.net/about/</link>
+      <pubDate>Wed, 11 Apr 2018 00:40:33 +0700</pubDate>
+      
+      <guid>http://tranhchi.quanphan.net/about/</guid>
+      <description>Simply a developer like to do art.</description>
+    </item>
+    
+    <item>
+      <title>Get in touch</title>
+      <link>http://tranhchi.quanphan.net/contact/</link>
+      <pubDate>Wed, 11 Apr 2018 00:40:33 +0700</pubDate>
+      
+      <guid>http://tranhchi.quanphan.net/contact/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Pop Art</title>
@@ -17,7 +35,9 @@
       <pubDate>Thu, 26 Jan 2017 17:44:25 +0700</pubDate>
       
       <guid>http://tranhchi.quanphan.net/catalog/andy_warhol_style/</guid>
-      <description>More about Pop Art.</description>
+      <description>&lt;p&gt;Pop Art&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -53,7 +73,7 @@
       <pubDate>Mon, 02 Jan 2017 13:33:55 +0700</pubDate>
       
       <guid>http://tranhchi.quanphan.net/post/maria_2/</guid>
-      <description>Another version of Maria Portrait    Compare to the other version, which one you prefer?</description>
+      <description>&lt;p&gt;Another version of Maria Portrait&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -62,8 +82,7 @@
       <pubDate>Sun, 01 Jan 2017 19:33:55 +0700</pubDate>
       
       <guid>http://tranhchi.quanphan.net/post/beer_and_nonla/</guid>
-      <description>Wish you a happy life ahead.    Dear my classmate, friend, and boss , I wish you all the best with your new family.
-This image is a little abstract, so you have to guess .</description>
+      <description>&lt;p&gt;Wish you a happy life ahead.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -72,8 +91,9 @@ This image is a little abstract, so you have to guess .</description>
       <pubDate>Sun, 25 Dec 2016 16:16:14 +0700</pubDate>
       
       <guid>http://tranhchi.quanphan.net/post/merryxmas/</guid>
-      <description>Despite some troubles on the way, we finally finish &amp;ldquo;Santa Claus&amp;rdquo; painting. A little late Merry Christmas to everyone.
-   Santa   </description>
+      <description>&lt;p&gt;Despite some troubles on the way, we finally finish &amp;ldquo;Santa Claus&amp;rdquo; painting.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -82,7 +102,9 @@ This image is a little abstract, so you have to guess .</description>
       <pubDate>Wed, 21 Dec 2016 03:31:47 +0700</pubDate>
       
       <guid>http://tranhchi.quanphan.net/simulation/papanoel/</guid>
-      <description>   Santa Claus is coming to town.   </description>
+      <description>&lt;p&gt;Papa Noel&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -91,7 +113,9 @@ This image is a little abstract, so you have to guess .</description>
       <pubDate>Tue, 20 Dec 2016 17:00:41 +0700</pubDate>
       
       <guid>http://tranhchi.quanphan.net/simulation/jesus/</guid>
-      <description>   Round Frame      Hexagon Frame   </description>
+      <description>&lt;p&gt;Multiple type of frames&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -100,7 +124,7 @@ This image is a little abstract, so you have to guess .</description>
       <pubDate>Tue, 20 Dec 2016 16:33:58 +0700</pubDate>
       
       <guid>http://tranhchi.quanphan.net/post/wedding/</guid>
-      <description>Wish you a happy life ahead.    </description>
+      <description>&lt;p&gt;Wish you a happy life ahead.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -118,7 +142,7 @@ This image is a little abstract, so you have to guess .</description>
       <pubDate>Tue, 20 Dec 2016 16:08:38 +0700</pubDate>
       
       <guid>http://tranhchi.quanphan.net/post/friend/</guid>
-      <description>My mother has a group of close friends since her school time. After more than 5 decades, they still keep gather together in a day near the end of each year.    This year, I want to give them the word FRIEND. Wish all the best for them and their family.</description>
+      <description>&lt;p&gt;My mother has a group of close friends since her school time. After more than 5 decades, they still keep gather together in a day near the end of each year.&lt;/p&gt;</description>
     </item>
     
     <item>

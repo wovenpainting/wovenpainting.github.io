@@ -20,6 +20,7 @@
 
 img.result {
     position:relative; /* and this has to be relative */
+    width: 100%;
 }
 img.original {
     right:0px; /* play around with this */
