@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Catalogs on Woven Painting</title>
-    <link>http://tranhchi.quanphan.net/catalog/</link>
+    <link>http://gpaint.net/catalog/</link>
     <description>Recent content in Catalogs on Woven Painting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 26 Jan 2017 17:44:25 +0700</lastBuildDate>
     
-	<atom:link href="http://tranhchi.quanphan.net/catalog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://gpaint.net/catalog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pop Art</title>
-      <link>http://tranhchi.quanphan.net/catalog/andy_warhol_style/</link>
+      <link>http://gpaint.net/catalog/andy_warhol_style/</link>
       <pubDate>Thu, 26 Jan 2017 17:44:25 +0700</pubDate>
       
-      <guid>http://tranhchi.quanphan.net/catalog/andy_warhol_style/</guid>
+      <guid>http://gpaint.net/catalog/andy_warhol_style/</guid>
       <description>&lt;p&gt;Pop Art&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -24,28 +24,28 @@
     
     <item>
       <title>Chibi Zodiac</title>
-      <link>http://tranhchi.quanphan.net/catalog/chibi_zodiac/</link>
+      <link>http://gpaint.net/catalog/chibi_zodiac/</link>
       <pubDate>Sun, 22 Jan 2017 15:28:21 +0700</pubDate>
       
-      <guid>http://tranhchi.quanphan.net/catalog/chibi_zodiac/</guid>
+      <guid>http://gpaint.net/catalog/chibi_zodiac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Celebrity Portraits</title>
-      <link>http://tranhchi.quanphan.net/catalog/celebrity/</link>
+      <link>http://gpaint.net/catalog/celebrity/</link>
       <pubDate>Thu, 05 Jan 2017 17:44:25 +0700</pubDate>
       
-      <guid>http://tranhchi.quanphan.net/catalog/celebrity/</guid>
+      <guid>http://gpaint.net/catalog/celebrity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Portraits</title>
-      <link>http://tranhchi.quanphan.net/catalog/religion/</link>
+      <link>http://gpaint.net/catalog/religion/</link>
       <pubDate>Thu, 05 Jan 2017 15:28:21 +0700</pubDate>
       
-      <guid>http://tranhchi.quanphan.net/catalog/religion/</guid>
+      <guid>http://gpaint.net/catalog/religion/</guid>
       <description></description>
     </item>
     

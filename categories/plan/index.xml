@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Plan on Woven Painting</title>
-    <link>http://tranhchi.quanphan.net/categories/plan/</link>
+    <link>http://gpaint.net/categories/plan/</link>
     <description>Recent content in Plan on Woven Painting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 21 Dec 2016 03:31:47 +0700</lastBuildDate>
     
-	<atom:link href="http://tranhchi.quanphan.net/categories/plan/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://gpaint.net/categories/plan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Santa Claus</title>
-      <link>http://tranhchi.quanphan.net/simulation/papanoel/</link>
+      <link>http://gpaint.net/simulation/papanoel/</link>
       <pubDate>Wed, 21 Dec 2016 03:31:47 +0700</pubDate>
       
-      <guid>http://tranhchi.quanphan.net/simulation/papanoel/</guid>
+      <guid>http://gpaint.net/simulation/papanoel/</guid>
       <description>&lt;p&gt;Papa Noel&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>Jesus Christ</title>
-      <link>http://tranhchi.quanphan.net/simulation/jesus/</link>
+      <link>http://gpaint.net/simulation/jesus/</link>
       <pubDate>Tue, 20 Dec 2016 17:00:41 +0700</pubDate>
       
-      <guid>http://tranhchi.quanphan.net/simulation/jesus/</guid>
+      <guid>http://gpaint.net/simulation/jesus/</guid>
       <description>&lt;p&gt;Multiple type of frames&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>

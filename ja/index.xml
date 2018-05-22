@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>絵画</title>
-    <link>http://tranhchi.quanphan.net/ja/</link>
+    <link>http://gpaint.net/ja/</link>
     <description>Recent content on 絵画</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 26 Jan 2017 17:44:25 +0700</lastBuildDate>
     
-	<atom:link href="http://tranhchi.quanphan.net/ja/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://gpaint.net/ja/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ポップアート</title>
-      <link>http://tranhchi.quanphan.net/ja/catalog/andy_warhol_style/</link>
+      <link>http://gpaint.net/ja/catalog/andy_warhol_style/</link>
       <pubDate>Thu, 26 Jan 2017 17:44:25 +0700</pubDate>
       
-      <guid>http://tranhchi.quanphan.net/ja/catalog/andy_warhol_style/</guid>
+      <guid>http://gpaint.net/ja/catalog/andy_warhol_style/</guid>
       <description>&lt;p&gt;ポップアート&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -24,46 +24,46 @@
     
     <item>
       <title>Chibi Zodiac</title>
-      <link>http://tranhchi.quanphan.net/ja/catalog/chibi_zodiac/</link>
+      <link>http://gpaint.net/ja/catalog/chibi_zodiac/</link>
       <pubDate>Sun, 22 Jan 2017 15:28:21 +0700</pubDate>
       
-      <guid>http://tranhchi.quanphan.net/ja/catalog/chibi_zodiac/</guid>
+      <guid>http://gpaint.net/ja/catalog/chibi_zodiac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Celebrity Portraits</title>
-      <link>http://tranhchi.quanphan.net/ja/catalog/celebrity/</link>
+      <link>http://gpaint.net/ja/catalog/celebrity/</link>
       <pubDate>Thu, 05 Jan 2017 17:44:25 +0700</pubDate>
       
-      <guid>http://tranhchi.quanphan.net/ja/catalog/celebrity/</guid>
+      <guid>http://gpaint.net/ja/catalog/celebrity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Portraits</title>
-      <link>http://tranhchi.quanphan.net/ja/catalog/religion/</link>
+      <link>http://gpaint.net/ja/catalog/religion/</link>
       <pubDate>Thu, 05 Jan 2017 15:28:21 +0700</pubDate>
       
-      <guid>http://tranhchi.quanphan.net/ja/catalog/religion/</guid>
+      <guid>http://gpaint.net/ja/catalog/religion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>聖母マリア - 形態 2</title>
-      <link>http://tranhchi.quanphan.net/ja/post/maria_2/</link>
+      <link>http://gpaint.net/ja/post/maria_2/</link>
       <pubDate>Mon, 02 Jan 2017 13:33:55 +0700</pubDate>
       
-      <guid>http://tranhchi.quanphan.net/ja/post/maria_2/</guid>
+      <guid>http://gpaint.net/ja/post/maria_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>結婚</title>
-      <link>http://tranhchi.quanphan.net/ja/post/beer_and_nonla/</link>
+      <link>http://gpaint.net/ja/post/beer_and_nonla/</link>
       <pubDate>Sun, 01 Jan 2017 19:33:55 +0700</pubDate>
       
-      <guid>http://tranhchi.quanphan.net/ja/post/beer_and_nonla/</guid>
+      <guid>http://gpaint.net/ja/post/beer_and_nonla/</guid>
       <description>&lt;p&gt;結婚式をおめでとございます。&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -71,10 +71,10 @@
     
     <item>
       <title>メリークリスマス</title>
-      <link>http://tranhchi.quanphan.net/ja/post/merryxmas/</link>
+      <link>http://gpaint.net/ja/post/merryxmas/</link>
       <pubDate>Sun, 25 Dec 2016 16:16:14 +0700</pubDate>
       
-      <guid>http://tranhchi.quanphan.net/ja/post/merryxmas/</guid>
+      <guid>http://gpaint.net/ja/post/merryxmas/</guid>
       <description>&lt;p&gt;メリークリスマス&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -82,10 +82,10 @@
     
     <item>
       <title>サンタクロース</title>
-      <link>http://tranhchi.quanphan.net/ja/simulation/papanoel/</link>
+      <link>http://gpaint.net/ja/simulation/papanoel/</link>
       <pubDate>Wed, 21 Dec 2016 03:31:47 +0700</pubDate>
       
-      <guid>http://tranhchi.quanphan.net/ja/simulation/papanoel/</guid>
+      <guid>http://gpaint.net/ja/simulation/papanoel/</guid>
       <description>&lt;p&gt;サンタクロース&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -93,10 +93,10 @@
     
     <item>
       <title>イエス・キリスト</title>
-      <link>http://tranhchi.quanphan.net/ja/simulation/jesus/</link>
+      <link>http://gpaint.net/ja/simulation/jesus/</link>
       <pubDate>Tue, 20 Dec 2016 17:00:41 +0700</pubDate>
       
-      <guid>http://tranhchi.quanphan.net/ja/simulation/jesus/</guid>
+      <guid>http://gpaint.net/ja/simulation/jesus/</guid>
       <description>&lt;p&gt;枠&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -104,37 +104,37 @@
     
     <item>
       <title>結婚</title>
-      <link>http://tranhchi.quanphan.net/ja/post/wedding/</link>
+      <link>http://gpaint.net/ja/post/wedding/</link>
       <pubDate>Tue, 20 Dec 2016 16:33:58 +0700</pubDate>
       
-      <guid>http://tranhchi.quanphan.net/ja/post/wedding/</guid>
+      <guid>http://gpaint.net/ja/post/wedding/</guid>
       <description>&lt;p&gt;結婚式をおめでとございます。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>心</title>
-      <link>http://tranhchi.quanphan.net/ja/post/heart/</link>
+      <link>http://gpaint.net/ja/post/heart/</link>
       <pubDate>Tue, 20 Dec 2016 16:28:42 +0700</pubDate>
       
-      <guid>http://tranhchi.quanphan.net/ja/post/heart/</guid>
+      <guid>http://gpaint.net/ja/post/heart/</guid>
       <description>   心   </description>
     </item>
     
     <item>
       <title>友達</title>
-      <link>http://tranhchi.quanphan.net/ja/post/friend/</link>
+      <link>http://gpaint.net/ja/post/friend/</link>
       <pubDate>Tue, 20 Dec 2016 16:08:38 +0700</pubDate>
       
-      <guid>http://tranhchi.quanphan.net/ja/post/friend/</guid>
+      <guid>http://gpaint.net/ja/post/friend/</guid>
       <description>&lt;p&gt;お母さんとお母さんの友人は、中学校から今まで一年に一回一緒に集合します。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>聖母マリア</title>
-      <link>http://tranhchi.quanphan.net/ja/post/maria/</link>
+      <link>http://gpaint.net/ja/post/maria/</link>
       <pubDate>Tue, 20 Dec 2016 15:58:59 +0700</pubDate>
       
-      <guid>http://tranhchi.quanphan.net/ja/post/maria/</guid>
+      <guid>http://gpaint.net/ja/post/maria/</guid>
       <description>   聖母マリア   </description>
     </item>
     

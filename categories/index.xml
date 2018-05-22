@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Woven Painting</title>
-    <link>http://tranhchi.quanphan.net/categories/</link>
+    <link>http://gpaint.net/categories/</link>
     <description>Recent content in Categories on Woven Painting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="http://tranhchi.quanphan.net/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://gpaint.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Done</title>
-      <link>http://tranhchi.quanphan.net/categories/done/</link>
+      <link>http://gpaint.net/categories/done/</link>
       <pubDate>Mon, 02 Jan 2017 13:33:55 +0700</pubDate>
       
-      <guid>http://tranhchi.quanphan.net/categories/done/</guid>
+      <guid>http://gpaint.net/categories/done/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plan</title>
-      <link>http://tranhchi.quanphan.net/categories/plan/</link>
+      <link>http://gpaint.net/categories/plan/</link>
       <pubDate>Wed, 21 Dec 2016 03:31:47 +0700</pubDate>
       
-      <guid>http://tranhchi.quanphan.net/categories/plan/</guid>
+      <guid>http://gpaint.net/categories/plan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Portrait</title>
-      <link>http://tranhchi.quanphan.net/categories/portrait/</link>
+      <link>http://gpaint.net/categories/portrait/</link>
       <pubDate>Wed, 21 Dec 2016 03:31:47 +0700</pubDate>
       
-      <guid>http://tranhchi.quanphan.net/categories/portrait/</guid>
+      <guid>http://gpaint.net/categories/portrait/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Word</title>
-      <link>http://tranhchi.quanphan.net/categories/word/</link>
+      <link>http://gpaint.net/categories/word/</link>
       <pubDate>Tue, 20 Dec 2016 16:08:38 +0700</pubDate>
       
-      <guid>http://tranhchi.quanphan.net/categories/word/</guid>
+      <guid>http://gpaint.net/categories/word/</guid>
       <description></description>
     </item>
     
