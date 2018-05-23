@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simulations on 絵画</title>
-    <link>http://gpaint.net/ja/simulation/</link>
+    <link>http://www.gpaint.net/ja/simulation/</link>
     <description>Recent content in Simulations on 絵画</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 21 Dec 2016 03:31:47 +0700</lastBuildDate>
     
-	<atom:link href="http://gpaint.net/ja/simulation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.gpaint.net/ja/simulation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>サンタクロース</title>
-      <link>http://gpaint.net/ja/simulation/papanoel/</link>
+      <link>http://www.gpaint.net/ja/simulation/papanoel/</link>
       <pubDate>Wed, 21 Dec 2016 03:31:47 +0700</pubDate>
       
-      <guid>http://gpaint.net/ja/simulation/papanoel/</guid>
+      <guid>http://www.gpaint.net/ja/simulation/papanoel/</guid>
       <description>&lt;p&gt;サンタクロース&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>イエス・キリスト</title>
-      <link>http://gpaint.net/ja/simulation/jesus/</link>
+      <link>http://www.gpaint.net/ja/simulation/jesus/</link>
       <pubDate>Tue, 20 Dec 2016 17:00:41 +0700</pubDate>
       
-      <guid>http://gpaint.net/ja/simulation/jesus/</guid>
+      <guid>http://www.gpaint.net/ja/simulation/jesus/</guid>
       <description>&lt;p&gt;枠&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>

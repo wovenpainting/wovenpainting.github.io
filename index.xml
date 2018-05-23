@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Woven Painting</title>
-    <link>http://gpaint.net/</link>
+    <link>http://www.gpaint.net/</link>
     <description>Recent content on Woven Painting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 11 Apr 2018 00:40:33 +0700</lastBuildDate>
     
-	<atom:link href="http://gpaint.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.gpaint.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About me</title>
-      <link>http://gpaint.net/about/</link>
+      <link>http://www.gpaint.net/about/</link>
       <pubDate>Wed, 11 Apr 2018 00:40:33 +0700</pubDate>
       
-      <guid>http://gpaint.net/about/</guid>
+      <guid>http://www.gpaint.net/about/</guid>
       <description>Simply a developer like to do art.</description>
     </item>
     
     <item>
       <title>Get in touch</title>
-      <link>http://gpaint.net/contact/</link>
+      <link>http://www.gpaint.net/contact/</link>
       <pubDate>Wed, 11 Apr 2018 00:40:33 +0700</pubDate>
       
-      <guid>http://gpaint.net/contact/</guid>
+      <guid>http://www.gpaint.net/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pop Art</title>
-      <link>http://gpaint.net/catalog/andy_warhol_style/</link>
+      <link>http://www.gpaint.net/catalog/andy_warhol_style/</link>
       <pubDate>Thu, 26 Jan 2017 17:44:25 +0700</pubDate>
       
-      <guid>http://gpaint.net/catalog/andy_warhol_style/</guid>
+      <guid>http://www.gpaint.net/catalog/andy_warhol_style/</guid>
       <description>&lt;p&gt;Pop Art&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -42,55 +42,55 @@
     
     <item>
       <title>Chibi Zodiac</title>
-      <link>http://gpaint.net/catalog/chibi_zodiac/</link>
+      <link>http://www.gpaint.net/catalog/chibi_zodiac/</link>
       <pubDate>Sun, 22 Jan 2017 15:28:21 +0700</pubDate>
       
-      <guid>http://gpaint.net/catalog/chibi_zodiac/</guid>
+      <guid>http://www.gpaint.net/catalog/chibi_zodiac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Celebrity Portraits</title>
-      <link>http://gpaint.net/catalog/celebrity/</link>
+      <link>http://www.gpaint.net/catalog/celebrity/</link>
       <pubDate>Thu, 05 Jan 2017 17:44:25 +0700</pubDate>
       
-      <guid>http://gpaint.net/catalog/celebrity/</guid>
+      <guid>http://www.gpaint.net/catalog/celebrity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Portraits</title>
-      <link>http://gpaint.net/catalog/religion/</link>
+      <link>http://www.gpaint.net/catalog/religion/</link>
       <pubDate>Thu, 05 Jan 2017 15:28:21 +0700</pubDate>
       
-      <guid>http://gpaint.net/catalog/religion/</guid>
+      <guid>http://www.gpaint.net/catalog/religion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maria - Type 2</title>
-      <link>http://gpaint.net/post/maria_2/</link>
+      <link>http://www.gpaint.net/post/maria_2/</link>
       <pubDate>Mon, 02 Jan 2017 13:33:55 +0700</pubDate>
       
-      <guid>http://gpaint.net/post/maria_2/</guid>
+      <guid>http://www.gpaint.net/post/maria_2/</guid>
       <description>&lt;p&gt;Another version of Maria Portrait&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Intercontinental Couple</title>
-      <link>http://gpaint.net/post/beer_and_nonla/</link>
+      <link>http://www.gpaint.net/post/beer_and_nonla/</link>
       <pubDate>Sun, 01 Jan 2017 19:33:55 +0700</pubDate>
       
-      <guid>http://gpaint.net/post/beer_and_nonla/</guid>
+      <guid>http://www.gpaint.net/post/beer_and_nonla/</guid>
       <description>&lt;p&gt;Wish you a happy life ahead.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Ho Ho Ho. Merry Christmas everyone.</title>
-      <link>http://gpaint.net/post/merryxmas/</link>
+      <link>http://www.gpaint.net/post/merryxmas/</link>
       <pubDate>Sun, 25 Dec 2016 16:16:14 +0700</pubDate>
       
-      <guid>http://gpaint.net/post/merryxmas/</guid>
+      <guid>http://www.gpaint.net/post/merryxmas/</guid>
       <description>&lt;p&gt;Despite some troubles on the way, we finally finish &amp;ldquo;Santa Claus&amp;rdquo; painting.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -98,10 +98,10 @@
     
     <item>
       <title>Santa Claus</title>
-      <link>http://gpaint.net/simulation/papanoel/</link>
+      <link>http://www.gpaint.net/simulation/papanoel/</link>
       <pubDate>Wed, 21 Dec 2016 03:31:47 +0700</pubDate>
       
-      <guid>http://gpaint.net/simulation/papanoel/</guid>
+      <guid>http://www.gpaint.net/simulation/papanoel/</guid>
       <description>&lt;p&gt;Papa Noel&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -109,10 +109,10 @@
     
     <item>
       <title>Jesus Christ</title>
-      <link>http://gpaint.net/simulation/jesus/</link>
+      <link>http://www.gpaint.net/simulation/jesus/</link>
       <pubDate>Tue, 20 Dec 2016 17:00:41 +0700</pubDate>
       
-      <guid>http://gpaint.net/simulation/jesus/</guid>
+      <guid>http://www.gpaint.net/simulation/jesus/</guid>
       <description>&lt;p&gt;Multiple type of frames&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -120,37 +120,37 @@
     
     <item>
       <title>Wedding</title>
-      <link>http://gpaint.net/post/wedding/</link>
+      <link>http://www.gpaint.net/post/wedding/</link>
       <pubDate>Tue, 20 Dec 2016 16:33:58 +0700</pubDate>
       
-      <guid>http://gpaint.net/post/wedding/</guid>
+      <guid>http://www.gpaint.net/post/wedding/</guid>
       <description>&lt;p&gt;Wish you a happy life ahead.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Heart</title>
-      <link>http://gpaint.net/post/heart/</link>
+      <link>http://www.gpaint.net/post/heart/</link>
       <pubDate>Tue, 20 Dec 2016 16:32:06 +0700</pubDate>
       
-      <guid>http://gpaint.net/post/heart/</guid>
+      <guid>http://www.gpaint.net/post/heart/</guid>
       <description>   Heart   </description>
     </item>
     
     <item>
       <title>Friendship</title>
-      <link>http://gpaint.net/post/friend/</link>
+      <link>http://www.gpaint.net/post/friend/</link>
       <pubDate>Tue, 20 Dec 2016 16:08:38 +0700</pubDate>
       
-      <guid>http://gpaint.net/post/friend/</guid>
+      <guid>http://www.gpaint.net/post/friend/</guid>
       <description>&lt;p&gt;My mother has a group of close friends since her school time. After more than 5 decades, they still keep gather together in a day near the end of each year.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Maria</title>
-      <link>http://gpaint.net/post/maria/</link>
+      <link>http://www.gpaint.net/post/maria/</link>
       <pubDate>Tue, 20 Dec 2016 15:58:59 +0700</pubDate>
       
-      <guid>http://gpaint.net/post/maria/</guid>
+      <guid>http://www.gpaint.net/post/maria/</guid>
       <description>   Maria   </description>
     </item>
     

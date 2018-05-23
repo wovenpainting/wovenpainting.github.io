@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simulations on Tranh Chỉ</title>
-    <link>http://gpaint.net/vi/simulation/</link>
+    <link>http://www.gpaint.net/vi/simulation/</link>
     <description>Recent content in Simulations on Tranh Chỉ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
     <lastBuildDate>Wed, 21 Dec 2016 03:31:47 +0700</lastBuildDate>
     
-	<atom:link href="http://gpaint.net/vi/simulation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.gpaint.net/vi/simulation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ông Già Noel</title>
-      <link>http://gpaint.net/vi/simulation/papanoel/</link>
+      <link>http://www.gpaint.net/vi/simulation/papanoel/</link>
       <pubDate>Wed, 21 Dec 2016 03:31:47 +0700</pubDate>
       
-      <guid>http://gpaint.net/vi/simulation/papanoel/</guid>
+      <guid>http://www.gpaint.net/vi/simulation/papanoel/</guid>
       <description>&lt;p&gt;Ông Già Noel&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>Đức Chúa Jesus</title>
-      <link>http://gpaint.net/vi/simulation/jesus/</link>
+      <link>http://www.gpaint.net/vi/simulation/jesus/</link>
       <pubDate>Tue, 20 Dec 2016 17:00:41 +0700</pubDate>
       
-      <guid>http://gpaint.net/vi/simulation/jesus/</guid>
+      <guid>http://www.gpaint.net/vi/simulation/jesus/</guid>
       <description>&lt;p&gt;Đa dạng loại khung&lt;/p&gt;</description>
     </item>
     
